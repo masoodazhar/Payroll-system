@@ -1,0 +1,106 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 1, 2018, 10:02:41 PM
+    Author     : azhar baloch
+*/
+.valOff{
+        width: 20px;
+    height: 20px;
+    border: solid 1px;
+    background-color: red;
+    border-radius: 0px;
+    padding: 10px;
+    color: wheat;
+}
+.valHaf{
+        width: 20px;
+    height: 20px;
+    border: solid 1px;
+    background-color: #20b7b7;
+    border-radius: 0px;
+   padding: 10px;
+    color: wheat;
+}
+.valAbsent{
+        width: 20px;
+    height: 20px;
+    border: solid 1px;
+    background-color: #9c0917;
+    border-radius: 0px;
+    padding: 10px;
+    color: wheat;
+}
+.valPresent{
+        width: 20px;
+    height: 20px;
+    border: solid 1px;
+    background-color: #28a745;
+    border-radius: 0px;
+    padding: 10px;
+    color: wheat;
+}
+.valNotCheckout{
+        width: 20px;
+    height: 20px;
+    border: solid 1px;
+    background-color: #c6d0ca;
+    border-radius: 0px;
+    padding: 10px;
+    color: wheat;
+}
+.Identify {
+    text-decoration: none;
+    list-style: none;
+}
+.Identify li{
+    display: inline-block;
+    padding: 5px;
+    width: 70px;
+    text-align: -webkit-center;
+}
+.my-dive-search{
+    width: 250px;
+    background: white;
+    position: static;
+    height: 210px;
+    padding: 10px;
+    font-size: 10px;
+    size: 10px;
+    margin: 0px 0 0px -20px;
+    border-top: solid 1px;
+    border-bottom: 1px solid;
+}
+
+.holidays li {
+
+    float: left;
+    margin: 0px 11px 0px 0px;
+    font-size: 12px;
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    
+
+}
+th.off {
+    background-color: red;
+}
+th.on {
+   
+}
+.change-image-btn{
+        width: 50px;
+    height: 20px;
+    font-size: 11px;
+    border: solid 1px #007bff;
+    background: #007bff;
+    color: white;
+    padding: 0 0 0 2px;
+    margin: 4px 0 0px 16px;
+    /* border-radius: 10px; */
+    float: right;
+}
